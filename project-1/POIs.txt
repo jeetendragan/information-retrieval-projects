@@ -1,0 +1,14 @@
+POIs India
+Narendar Modi - Prime Minister - (narendramodi)
+Dr. Harsh Vardhan - Health Minister (drharshvardhan)
+Arvind Kejriwal - Delhi Chief Minister (ArvindKejriwal)
+
+POIs USA
+Donald Trump - President (realDonaldTrump)
+Andrew Cuomo - NY Governer (NYGovCuomo)
+CDC - (CDCgov)
+
+POIs Italy
+Ministry of Health - MinisteroSalute (MinisteroSalute)
+Giuseppe Conte - (GiuseppeConteIT)
+Presidency of the Council of Ministers (Palazzo_Chigi)
